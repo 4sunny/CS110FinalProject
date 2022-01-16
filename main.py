@@ -5,7 +5,7 @@ from data_visualization import Plot
 csv_location = 'condensed_data.csv'
 
 # Read data into Country objects
-""" 
+"""
 Feel free to try other countries by changing the Country input string! 
 e.g. Country('Germany', csv_location)
 The dataset we included currently supports 
